@@ -1,0 +1,3 @@
+Ayur Ease is a sophisticated chatbot crafted to offer personalized recommendations for Ayurvedic remedies tailored to your specific health concerns. Its vast database is sourced directly from the authoritative digital publications of the Ministry of Ayush, India, ensuring the highest standards of accuracy and reliability.
+
+This intelligent virtual assistant seamlessly integrates cutting-edge technology with centuries-old Ayurvedic wisdom, empowering users to access traditional healing solutions in a modern, user-friendly interface. With Ayur Ease, finding the right Ayurvedic medicine for your needs has never been easier or more convenient.
